@@ -300,3 +300,31 @@
 	line-height: 16px;
 	padding: 8px 10px;
 }
+
+/*tooltipster-punk.css*/
+.tooltipster-punk {
+	border-radius: 5px; 
+	border-bottom: 3px solid #f71169;
+	background: #2a2a2a;
+	color: #fff;
+}
+.tooltipster-punk .tooltipster-content {
+	font-family: 'Courier', monospace;
+	font-size: 14px;
+	line-height: 16px;
+	padding: 8px 10px;
+}
+
+/*tooltipster-noir.css*/
+.tooltipster-noir {
+	border-radius: 0px; 
+	border: 3px solid #2c2c2c;
+	background: #fff;
+	color: #2c2c2c;
+}
+.tooltipster-noir .tooltipster-content {
+	font-family: 'Georgia', serif;
+	font-size: 14px;
+	line-height: 16px;
+	padding: 8px 10px;
+}
