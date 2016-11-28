@@ -4,7 +4,8 @@ Changelog
 3.3.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add Products.GenericSetu dependency
+  [FBruynbroeck]
 
 
 3.3.0 (2016-06-09)
