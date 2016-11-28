@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 import os
 
-version = '3.3.1.dev0'
+version = '3.3.1'
 
 setup(name='affinitic.tooltipster',
       version=version,
